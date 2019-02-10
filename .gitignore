@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Azure
+aml_config/
+*.h5
+*DS_Store*
